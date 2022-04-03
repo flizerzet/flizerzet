@@ -3,10 +3,10 @@
 ## I'm a Frontend developer and a beginner YouTuber
 
 ### Stack:
-![HTML](https://img.shields.io/badge/HTML-090909?color=e34c26)
-![CSS](https://img.shields.io/badge/CSS-090909?color=264de4)
-![JS](https://img.shields.io/badge/JavaScript-090909?color=F0DB4F)
-![React](https://img.shields.io/badge/React-090909?color=61DBFB)
+![HTML](https://img.shields.io/badge/HTML-e34c26)
+![CSS](https://img.shields.io/badge/CSS-264de4)
+![JS](https://img.shields.io/badge/JavaScript-F0DB4F)
+![React](https://img.shields.io/badge/React-61DBFB)
 
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9)](https://t.me/prokashevdev)
