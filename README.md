@@ -3,8 +3,8 @@
 ## I'm a Frontend developer and a beginner YouTuber
 
 ### Stack:
-![HTML](https://img.shields.io/badge/<HTML>-090909?style=for-the-badge&logo=html&logoColor=e34c26)
-![CSS](https://img.shields.io/badge/<CSS>-090909?style=for-the-badge&logo=css&logoColor=264de4)
+![HTML](https://img.shields.io/badge/<HTML>-090909?style=for-the-badge&logo=HTML&logoColor=e34c26)
+![CSS](https://img.shields.io/badge/<CSS>-090909?style=for-the-badge&logo=CSS&logoColor=264de4)
 ![JS](https://img.shields.io/badge/<JavaScript>-090909?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/<React>-090909?style=for-the-badge&logo=react&logoColor=61DBFB)
 
