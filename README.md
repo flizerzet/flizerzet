@@ -3,7 +3,7 @@
 ## I'm a Frontend developer and a beginner YouTuber
 
 ### Stack:
-![HTML](https://img.shields.io/badge/HTML-e34c26)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=27A0D9)
 ![CSS](https://img.shields.io/badge/CSS-264de4)
 ![JS](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
