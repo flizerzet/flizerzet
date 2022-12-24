@@ -1,6 +1,6 @@
 # Привет!👋
 
-## Меня зовут Даниил, я фронтенд разработчик и Ютубер!
+## Меня зовут Даниил, я JavaScript & React web developer!
 
 ### Стэк:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,5 +19,5 @@
 
 ### Связь со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prokashev_daniil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/panya_drokashev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/panya_tnl_drokashev)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCd2bpepa7w8opvqvGiQ1PJA)
