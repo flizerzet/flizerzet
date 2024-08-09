@@ -1,5 +1,5 @@
 Stack: 
-HTML, CSS, JS
-Front-End (React)
-C#
-C++
+HTML, CSS, JS  
+Front-End (React)  
+C#  
+C++  
