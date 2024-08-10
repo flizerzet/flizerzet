@@ -2,6 +2,7 @@
 
 ## My contacts:
 <a href="https://t.me/prokashev_daniil"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="mailto:flizer.code@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 ## Look at my stack!
 ### Front-End 
