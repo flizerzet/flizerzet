@@ -1,5 +1,8 @@
 # Hi, my name is Daniil Prokashev
 
+## My contacts:
+<img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />  
+
 ## Look at my stack!
 ### Front-End 
 <p>
@@ -20,6 +23,6 @@
   <img alt="cs" src="https://img.shields.io/badge/CSharp-E34F26?style=flat-square&logo=sharp&logoColor=white" />
 </p>
 
-List of projects  
+## List of projects  
 [Test your inner time! (mini-game)](https://admirable-raindrop-9fb65d.netlify.app/) - Mini-game, where you can check how well you feel the time (React)  
 [Deposit calculator](https://lively-piroshki-5a27cb.netlify.app/) - a deposit calculator written as part of the training course (React)
