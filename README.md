@@ -32,3 +32,5 @@
 ### C#
 [Space Simulator](https://github.com/flizerzet/SpaceSimulator) — Console app with space simulation   
 [Computer club simulator](https://github.com/flizerzet/Computer-Club-Simulator) — Console app with computer club simulation
+
+[More HTML&CSS Projects](https://flizerzet.github.io)
