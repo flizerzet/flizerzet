@@ -11,7 +11,7 @@ Front-End
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/CSharp%20-%2314354C.svg?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C#%20-%2314354C.svg?style=flat-square&logo=csharp&logoColor=white" />
 </p>
 C++  
 
