@@ -10,7 +10,7 @@ Front-End
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/sharp%20-%2314354C.svg?style=flat-square&logo=sharp&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/csharp%20-%2314354C.svg?style=flat-square&logo=sharp&logoColor=white" />
 </p>
 C++  
 
