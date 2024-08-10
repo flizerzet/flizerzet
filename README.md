@@ -7,3 +7,4 @@ C++
 Stack поподробнее
 
 List of projects
+[mini-game](https://admirable-raindrop-9fb65d.netlify.app/)
