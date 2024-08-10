@@ -1,5 +1,7 @@
-# Stack:  
-## Front-End 
+# Hi, my name is Daniil Prokashev
+
+## Look at my stack!
+### Front-End 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
@@ -12,14 +14,11 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 </p>  
 
-## Back-end
+### Back-end
 <p>
   <img alt="cpp" src="https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="cs" src="https://img.shields.io/badge/CSharp-E34F26?style=flat-square&logo=sharp&logoColor=white" />
 </p>
-C++  
-
-Stack поподробнее
 
 List of projects  
 [Test your inner time! (mini-game)](https://admirable-raindrop-9fb65d.netlify.app/) - Mini-game, where you can check how well you feel the time (React)  
