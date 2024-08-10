@@ -26,9 +26,9 @@
 
 ## List of my projects   
 ### React
-[Test your inner time! (mini-game)](https://admirable-raindrop-9fb65d.netlify.app/) - Mini-game, where you can check how well you feel the time (React)  
+[Test your inner time! (mini-game)](https://admirable-raindrop-9fb65d.netlify.app/) - Mini-game, where you can check how well you feel the time (React)   
 [Deposit calculator](https://lively-piroshki-5a27cb.netlify.app/) - a deposit calculator written as part of the training course (React)
 
 ### C#
-[Space Simulator](https://github.com/flizerzet/SpaceSimulator) — Console app with space simulation
+[Space Simulator](https://github.com/flizerzet/SpaceSimulator) — Console app with space simulation   
 [Computer club simulator](https://github.com/flizerzet/Computer-Club-Simulator) — Console app with computer club simulation
