@@ -20,7 +20,6 @@
 
 ### Back-end
 <p>
-  <img alt="cpp" src="https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="cs" src="https://img.shields.io/badge/CSharp-E34F26?style=flat-square&logo=sharp&logoColor=white" />
 </p>
 
